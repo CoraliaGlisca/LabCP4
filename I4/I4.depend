@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510088337 source:c:\users\cora\desktop\lab4\i4\main.c
+	<stdio.h>
+	<math.h>
+
